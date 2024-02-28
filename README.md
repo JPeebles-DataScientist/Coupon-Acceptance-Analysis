@@ -26,7 +26,7 @@ This repository contains a detailed analysis of coupon acceptance behavior among
 
 ## Notebook Details
 
-To view the detailed analysis, please refer to the [CouponAcceptanceAnalysis.ipynb]((https://github.com/JPeebles-DataScientist/Kraftwerk/blob/main/CouponAcceptanceAnalysis)) notebook. The notebook includes comprehensive comments and markdown cells that guide you through the data exploration and visualization process.
+To view the detailed analysis, please refer to the [[CouponAcceptanceAnalysis.ipynb]((https://github.com/JPeebles-DataScientist/Kraftwerk/blob/main/CouponAcceptanceAnalysis)) ](https://github.com/JPeebles-DataScientist/Kraftwerk/blob/main/CouponAcceptanceAnalysis)notebook. The notebook includes comprehensive comments and markdown cells that guide you through the data exploration and visualization process.
 
 ## Usage
 
